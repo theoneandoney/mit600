@@ -1,0 +1,15 @@
+# ps2.txt
+
+problem 1:
+
+there are 2 possible ways to buy 50 chicken nuggets
+there are 3 possible ways to buy 51 chicken nuggets
+there are 1 possible ways to buy 52 chicken nuggets
+there are 2 possible ways to buy 53 chicken nuggets
+there are 4 possible ways to buy 54 chicken nuggets
+there are 1 possible ways to buy 55 chicken nuggets
+
+
+
+problem 2:
+
